@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.lhyg.common.security.service.UserDetailsServiceImpl,\
+  com.lhyg.common.security.handler.CustomAccessDeniedHandler,\
+  com.lhyg.common.security.handler.GlobalExceptionHandler
+
+  
