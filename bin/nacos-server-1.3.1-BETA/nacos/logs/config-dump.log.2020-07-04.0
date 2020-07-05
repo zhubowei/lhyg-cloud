@@ -1,0 +1,34 @@
+2020-07-04 16:52:56,895 INFO [dump-all-ok] application-dev.yml+DEFAULT_GROUP, 1591726941000, length=773, md5=bf6cdf98474bf18c7ff697afbdf18e50
+
+2020-07-04 16:52:56,896 INFO [dump-all-ok] ruoyi-gateway-dev.yml+DEFAULT_GROUP, 1592501527000, length=1111, md5=ce9cfad3603fe40fb14a37da1dd56516
+
+2020-07-04 16:52:56,897 INFO [dump-all-ok] ruoyi-auth-dev.yml+DEFAULT_GROUP, 1591720250000, length=337, md5=59b39f711530be1dbf5df576549d627f
+
+2020-07-04 16:52:56,898 INFO [dump-all-ok] ruoyi-monitor-dev.yml+DEFAULT_GROUP, 1589914244000, length=144, md5=8e49d78998a7780d780305aeefe4fb1b
+
+2020-07-04 16:52:56,899 INFO [dump-all-ok] ruoyi-system-dev.yml+DEFAULT_GROUP, 1591290854000, length=839, md5=8ea4b4a66bd0ad92500e67469eb22f68
+
+2020-07-04 16:52:56,901 INFO [dump-all-ok] ruoyi-gen-dev.yml+DEFAULT_GROUP, 1589914271000, length=1005, md5=1679ed91cd777cd5759350c1cdb53ca7
+
+2020-07-04 16:52:56,903 INFO [dump-all-ok] ruoyi-job-dev.yml+DEFAULT_GROUP, 1589914196000, length=780, md5=31591d99538d3ac3b1a4ba1cf6229ce7
+
+2020-07-04 16:52:56,903 INFO [dump-all-ok] sentinel-ruoyi-gateway+DEFAULT_GROUP, 1591789459000, length=715, md5=9f3a3069261598f74220bc47958ec252
+
+2020-07-04 21:49:10,794 INFO [dump-all-ok] application-dev.yml+DEFAULT_GROUP, 1591726941000, length=773, md5=bf6cdf98474bf18c7ff697afbdf18e50
+
+2020-07-04 21:49:10,795 INFO [dump-all-ok] ruoyi-gateway-dev.yml+DEFAULT_GROUP, 1592501527000, length=1111, md5=ce9cfad3603fe40fb14a37da1dd56516
+
+2020-07-04 21:49:10,796 INFO [dump-all-ok] ruoyi-auth-dev.yml+DEFAULT_GROUP, 1591720250000, length=337, md5=59b39f711530be1dbf5df576549d627f
+
+2020-07-04 21:49:10,796 INFO [dump-all-ok] ruoyi-monitor-dev.yml+DEFAULT_GROUP, 1589914244000, length=144, md5=8e49d78998a7780d780305aeefe4fb1b
+
+2020-07-04 21:49:10,798 INFO [dump-all-ok] ruoyi-system-dev.yml+DEFAULT_GROUP, 1591290854000, length=839, md5=8ea4b4a66bd0ad92500e67469eb22f68
+
+2020-07-04 21:49:10,799 INFO [dump-all-ok] ruoyi-gen-dev.yml+DEFAULT_GROUP, 1589914271000, length=1005, md5=1679ed91cd777cd5759350c1cdb53ca7
+
+2020-07-04 21:49:10,801 INFO [dump-all-ok] ruoyi-job-dev.yml+DEFAULT_GROUP, 1589914196000, length=780, md5=31591d99538d3ac3b1a4ba1cf6229ce7
+
+2020-07-04 21:49:10,801 INFO [dump-all-ok] sentinel-ruoyi-gateway+DEFAULT_GROUP, 1591789459000, length=715, md5=9f3a3069261598f74220bc47958ec252
+
+2020-07-04 23:54:18,093 WARN [dump-ignore] ignore to save cache file. groupKey=ruoyi-monitor-dev.yml+DEFAULT_GROUP, md5=be124f8da8ea3442282e9b9534045956, lastModifiedOld=1593878051398, lastModifiedNew=1593878057985
+

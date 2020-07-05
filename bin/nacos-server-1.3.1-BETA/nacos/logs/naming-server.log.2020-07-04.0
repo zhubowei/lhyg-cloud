@@ -1,0 +1,190 @@
+2020-07-04 15:15:52,000 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2020-07-04 15:15:52,001 INFO listen for service meta change
+
+2020-07-04 15:20:06,475 INFO creating empty service public:DEFAULT_GROUP@@ruoyi-gateway
+
+2020-07-04 15:20:06,515 INFO [NEW-SERVICE] {"name":"DEFAULT_GROUP@@ruoyi-gateway","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1593847206479,"checksum":"4a27361db4ddb6a449c41db69e01476c","clusterMap":{},"empty":true}
+
+2020-07-04 15:20:06,520 WARN cluster: DEFAULT not found, ip: {"instanceId":"192.168.46.1#8080#DEFAULT#DEFAULT_GROUP@@ruoyi-gateway","ip":"192.168.46.1","port":8080,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593847206462,"marked":false,"app":"ruoyi-gateway","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}, will create new cluster with default configuration.
+
+2020-07-04 15:20:06,537 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-gateway, value: {"instanceList":[{"instanceId":"192.168.46.1#8080#DEFAULT#DEFAULT_GROUP@@ruoyi-gateway","ip":"192.168.46.1","port":8080,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593847206462,"marked":false,"app":"ruoyi-gateway","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+
+2020-07-04 16:49:50,661 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2020-07-04 16:49:50,661 INFO listen for service meta change
+
+2020-07-04 16:50:57,720 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2020-07-04 16:50:57,720 INFO listen for service meta change
+
+2020-07-04 16:51:55,818 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2020-07-04 16:51:55,819 INFO listen for service meta change
+
+2020-07-04 16:52:56,738 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2020-07-04 16:52:56,739 INFO listen for service meta change
+
+2020-07-04 16:53:01,407 INFO creating empty service public:DEFAULT_GROUP@@ruoyi-gateway
+
+2020-07-04 16:53:01,477 INFO [NEW-SERVICE] {"name":"DEFAULT_GROUP@@ruoyi-gateway","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1593852781412,"checksum":"4a27361db4ddb6a449c41db69e01476c","clusterMap":{},"empty":true}
+
+2020-07-04 16:53:01,482 WARN cluster: DEFAULT not found, ip: {"instanceId":"192.168.46.1#8080#DEFAULT#DEFAULT_GROUP@@ruoyi-gateway","ip":"192.168.46.1","port":8080,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593852781391,"marked":false,"app":"ruoyi-gateway","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}, will create new cluster with default configuration.
+
+2020-07-04 16:53:01,500 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-gateway, value: {"instanceList":[{"instanceId":"192.168.46.1#8080#DEFAULT#DEFAULT_GROUP@@ruoyi-gateway","ip":"192.168.46.1","port":8080,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593852781391,"marked":false,"app":"ruoyi-gateway","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+
+2020-07-04 21:49:10,620 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2020-07-04 21:49:10,644 INFO listen for service meta change
+
+2020-07-04 21:49:14,348 INFO creating empty service public:DEFAULT_GROUP@@ruoyi-gateway
+
+2020-07-04 21:49:14,391 INFO [NEW-SERVICE] {"name":"DEFAULT_GROUP@@ruoyi-gateway","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1593870554357,"checksum":"4a27361db4ddb6a449c41db69e01476c","clusterMap":{},"empty":true}
+
+2020-07-04 21:49:14,397 WARN cluster: DEFAULT not found, ip: {"instanceId":"192.168.46.1#8080#DEFAULT#DEFAULT_GROUP@@ruoyi-gateway","ip":"192.168.46.1","port":8080,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593870554325,"marked":false,"app":"ruoyi-gateway","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}, will create new cluster with default configuration.
+
+2020-07-04 21:49:14,415 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-gateway, value: {"instanceList":[{"instanceId":"192.168.46.1#8080#DEFAULT#DEFAULT_GROUP@@ruoyi-gateway","ip":"192.168.46.1","port":8080,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593870554325,"marked":false,"app":"ruoyi-gateway","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+
+2020-07-04 21:51:53,000 INFO creating empty service public:DEFAULT_GROUP@@ruoyi-system
+
+2020-07-04 21:51:53,001 INFO [NEW-SERVICE] {"name":"DEFAULT_GROUP@@ruoyi-system","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1593870713000,"checksum":"05caa065c9f73bfae0c5f9a269fcd1cf","clusterMap":{},"empty":true}
+
+2020-07-04 21:51:53,001 WARN cluster: DEFAULT not found, ip: {"instanceId":"192.168.46.1#9201#DEFAULT#DEFAULT_GROUP@@ruoyi-system","ip":"192.168.46.1","port":9201,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-system","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593870713000,"marked":false,"app":"ruoyi-system","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}, will create new cluster with default configuration.
+
+2020-07-04 21:51:53,001 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-system, value: {"instanceList":[{"instanceId":"192.168.46.1#9201#DEFAULT#DEFAULT_GROUP@@ruoyi-system","ip":"192.168.46.1","port":9201,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-system","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593870713000,"marked":false,"app":"ruoyi-system","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+
+2020-07-04 21:52:07,508 INFO creating empty service public:DEFAULT_GROUP@@ruoyi-auth
+
+2020-07-04 21:52:07,508 INFO [NEW-SERVICE] {"name":"DEFAULT_GROUP@@ruoyi-auth","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1593870727508,"checksum":"b9c3dba1886b1d934151a68a8374b3e5","clusterMap":{},"empty":true}
+
+2020-07-04 21:52:07,508 WARN cluster: DEFAULT not found, ip: {"instanceId":"192.168.46.1#9200#DEFAULT#DEFAULT_GROUP@@ruoyi-auth","ip":"192.168.46.1","port":9200,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-auth","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593870727507,"marked":false,"app":"unknown","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}, will create new cluster with default configuration.
+
+2020-07-04 21:52:07,508 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-auth, value: {"instanceList":[{"instanceId":"192.168.46.1#9200#DEFAULT#DEFAULT_GROUP@@ruoyi-auth","ip":"192.168.46.1","port":9200,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-auth","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593870727507,"marked":false,"app":"unknown","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+
+2020-07-04 21:52:25,900 INFO creating empty service public:DEFAULT_GROUP@@ruoyi-job
+
+2020-07-04 21:52:25,900 INFO [NEW-SERVICE] {"name":"DEFAULT_GROUP@@ruoyi-job","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1593870745900,"checksum":"94e2f53b0232975b767544b67d1a544c","clusterMap":{},"empty":true}
+
+2020-07-04 21:52:25,901 WARN cluster: DEFAULT not found, ip: {"instanceId":"192.168.46.1#9203#DEFAULT#DEFAULT_GROUP@@ruoyi-job","ip":"192.168.46.1","port":9203,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-job","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593870745900,"marked":false,"app":"ruoyi-job","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}, will create new cluster with default configuration.
+
+2020-07-04 21:52:25,901 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-job, value: {"instanceList":[{"instanceId":"192.168.46.1#9203#DEFAULT#DEFAULT_GROUP@@ruoyi-job","ip":"192.168.46.1","port":9203,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-job","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593870745900,"marked":false,"app":"ruoyi-job","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+
+2020-07-04 21:52:35,566 INFO creating empty service public:DEFAULT_GROUP@@ruoyi-gen
+
+2020-07-04 21:52:35,567 INFO [NEW-SERVICE] {"name":"DEFAULT_GROUP@@ruoyi-gen","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1593870755566,"checksum":"19b0200c286e618a3e43d5ec687b5c71","clusterMap":{},"empty":true}
+
+2020-07-04 21:52:35,567 WARN cluster: DEFAULT not found, ip: {"instanceId":"192.168.46.1#9202#DEFAULT#DEFAULT_GROUP@@ruoyi-gen","ip":"192.168.46.1","port":9202,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-gen","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593870755566,"marked":false,"app":"ruoyi-gen","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}, will create new cluster with default configuration.
+
+2020-07-04 21:52:35,567 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-gen, value: {"instanceList":[{"instanceId":"192.168.46.1#9202#DEFAULT#DEFAULT_GROUP@@ruoyi-gen","ip":"192.168.46.1","port":9202,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-gen","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593870755566,"marked":false,"app":"ruoyi-gen","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+
+2020-07-04 21:52:39,986 INFO creating empty service public:DEFAULT_GROUP@@ruoyi-monitor
+
+2020-07-04 21:52:39,986 INFO [NEW-SERVICE] {"name":"DEFAULT_GROUP@@ruoyi-monitor","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1593870759986,"checksum":"e5d059c613387b949b0a656d504f71f6","clusterMap":{},"empty":true}
+
+2020-07-04 21:52:39,986 WARN cluster: DEFAULT not found, ip: {"instanceId":"192.168.46.1#9100#DEFAULT#DEFAULT_GROUP@@ruoyi-monitor","ip":"192.168.46.1","port":9100,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-monitor","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593870759986,"marked":false,"app":"ruoyi-monitor","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}, will create new cluster with default configuration.
+
+2020-07-04 21:52:39,987 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-monitor, value: {"instanceList":[{"instanceId":"192.168.46.1#9100#DEFAULT#DEFAULT_GROUP@@ruoyi-monitor","ip":"192.168.46.1","port":9100,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-monitor","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593870759986,"marked":false,"app":"ruoyi-monitor","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+
+2020-07-04 21:56:06,933 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@ruoyi-job
+
+2020-07-04 21:56:11,084 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@ruoyi-job
+
+2020-07-04 21:56:20,940 INFO [AUTO-DELETE-IP] service: DEFAULT_GROUP@@ruoyi-job, ip: {"instanceId":"192.168.46.1#9203#DEFAULT#DEFAULT_GROUP@@ruoyi-job","ip":"192.168.46.1","port":9203,"weight":1.0,"healthy":false,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-job","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593870946053,"marked":false,"app":"ruoyi-job","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}
+
+2020-07-04 21:56:21,144 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-job, value: {"instanceList":[]}
+
+2020-07-04 21:56:40,610 INFO [AUTO-DELETE-IP] service: DEFAULT_GROUP@@ruoyi-gen, ip: {"instanceId":"192.168.46.1#9202#DEFAULT#DEFAULT_GROUP@@ruoyi-gen","ip":"192.168.46.1","port":9202,"weight":1.0,"healthy":false,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-gen","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593870965701,"marked":false,"app":"ruoyi-gen","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}
+
+2020-07-04 21:56:40,612 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-gen, value: {"instanceList":[]}
+
+2020-07-04 21:56:45,022 INFO [AUTO-DELETE-IP] service: DEFAULT_GROUP@@ruoyi-monitor, ip: {"instanceId":"192.168.46.1#9100#DEFAULT#DEFAULT_GROUP@@ruoyi-monitor","ip":"192.168.46.1","port":9100,"weight":1.0,"healthy":false,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-monitor","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593870970108,"marked":false,"app":"ruoyi-monitor","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}
+
+2020-07-04 21:56:45,024 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-monitor, value: {"instanceList":[]}
+
+2020-07-04 21:58:30,644 WARN namespace : public, [DEFAULT_GROUP@@ruoyi-job] services are automatically cleaned
+
+2020-07-04 21:58:30,647 INFO [DEAD-SERVICE] {"name":"DEFAULT_GROUP@@ruoyi-job","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":5,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1593870981144,"checksum":"68c20017345832b8b34faf5ee32d5b46","clusterMap":{"DEFAULT":{"serviceName":"DEFAULT_GROUP@@ruoyi-job","name":"DEFAULT","healthChecker":{"type":"TCP"},"defaultPort":80,"defaultCheckPort":80,"useIPPort4Check":true,"metadata":{},"sitegroup":"","defCkport":80,"empty":true,"defIPPort":80}},"empty":true}
+
+2020-07-04 21:59:00,644 WARN namespace : public, [DEFAULT_GROUP@@ruoyi-gen] services are automatically cleaned
+
+2020-07-04 21:59:00,645 WARN namespace : public, [DEFAULT_GROUP@@ruoyi-monitor] services are automatically cleaned
+
+2020-07-04 21:59:00,645 INFO [DEAD-SERVICE] {"name":"DEFAULT_GROUP@@ruoyi-gen","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":5,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1593871000612,"checksum":"ec7238ac5b8dd97facf5eb49a46cb17c","clusterMap":{"DEFAULT":{"serviceName":"DEFAULT_GROUP@@ruoyi-gen","name":"DEFAULT","healthChecker":{"type":"TCP"},"defaultPort":80,"defaultCheckPort":80,"useIPPort4Check":true,"metadata":{},"sitegroup":"","defCkport":80,"empty":true,"defIPPort":80}},"empty":true}
+
+2020-07-04 21:59:00,646 INFO [DEAD-SERVICE] {"name":"DEFAULT_GROUP@@ruoyi-monitor","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":5,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1593871005024,"checksum":"732faae51f29bbe912a565ff9519ee04","clusterMap":{"DEFAULT":{"serviceName":"DEFAULT_GROUP@@ruoyi-monitor","name":"DEFAULT","healthChecker":{"type":"TCP"},"defaultPort":80,"defaultCheckPort":80,"useIPPort4Check":true,"metadata":{},"sitegroup":"","defCkport":80,"empty":true,"defIPPort":80}},"empty":true}
+
+2020-07-04 22:03:39,269 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@ruoyi-system
+
+2020-07-04 22:03:39,269 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@ruoyi-system
+
+2020-07-04 22:03:39,269 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@ruoyi-gateway
+
+2020-07-04 22:03:39,269 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@ruoyi-auth
+
+2020-07-04 22:03:39,271 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@ruoyi-auth
+
+2020-07-04 22:03:39,271 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@ruoyi-gateway
+
+2020-07-04 22:03:40,257 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-auth, value: {"instanceList":[{"instanceId":"192.168.46.1#9200#DEFAULT#DEFAULT_GROUP@@ruoyi-auth","ip":"192.168.46.1","port":9200,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-auth","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593871420257,"marked":false,"app":"unknown","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+
+2020-07-04 22:03:40,336 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@ruoyi-auth
+
+2020-07-04 22:03:40,337 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@ruoyi-system
+
+2020-07-04 22:03:40,338 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@ruoyi-gateway
+
+2020-07-04 22:03:41,260 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@ruoyi-auth
+
+2020-07-04 22:03:41,491 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-system, value: {"instanceList":[{"instanceId":"192.168.46.1#9201#DEFAULT#DEFAULT_GROUP@@ruoyi-system","ip":"192.168.46.1","port":9201,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-system","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593871421491,"marked":false,"app":"ruoyi-system","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+
+2020-07-04 22:03:41,641 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-gateway, value: {"instanceList":[{"instanceId":"192.168.46.1#8080#DEFAULT#DEFAULT_GROUP@@ruoyi-gateway","ip":"192.168.46.1","port":8080,"weight":1.0,"healthy":false,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593871395085,"marked":false,"app":"ruoyi-gateway","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000},{"instanceId":"192.168.46.1#8088#DEFAULT#DEFAULT_GROUP@@ruoyi-gateway","ip":"192.168.46.1","port":8088,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593871421641,"marked":false,"app":"ruoyi-gateway","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+
+2020-07-04 22:03:42,492 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@ruoyi-system
+
+2020-07-04 22:03:49,526 INFO [AUTO-DELETE-IP] service: DEFAULT_GROUP@@ruoyi-gateway, ip: {"instanceId":"192.168.46.1#8080#DEFAULT#DEFAULT_GROUP@@ruoyi-gateway","ip":"192.168.46.1","port":8080,"weight":1.0,"healthy":false,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593871395085,"marked":false,"app":"ruoyi-gateway","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}
+
+2020-07-04 22:03:49,529 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-gateway, value: {"instanceList":[{"instanceId":"192.168.46.1#8088#DEFAULT#DEFAULT_GROUP@@ruoyi-gateway","ip":"192.168.46.1","port":8088,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593871426644,"marked":false,"app":"ruoyi-gateway","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+
+2020-07-04 23:09:08,208 INFO [AUTO-DELETE-IP] service: DEFAULT_GROUP@@ruoyi-auth, ip: {"instanceId":"192.168.46.1#9200#DEFAULT#DEFAULT_GROUP@@ruoyi-auth","ip":"192.168.46.1","port":9200,"weight":1.0,"healthy":false,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-auth","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593875318054,"marked":false,"app":"unknown","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}
+
+2020-07-04 23:09:08,217 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-auth, value: {"instanceList":[]}
+
+2020-07-04 23:09:10,188 INFO [AUTO-DELETE-IP] service: DEFAULT_GROUP@@ruoyi-gateway, ip: {"instanceId":"192.168.46.1#8088#DEFAULT#DEFAULT_GROUP@@ruoyi-gateway","ip":"192.168.46.1","port":8088,"weight":1.0,"healthy":false,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593875319141,"marked":false,"app":"ruoyi-gateway","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}
+
+2020-07-04 23:09:10,192 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-gateway, value: {"instanceList":[]}
+
+2020-07-04 23:09:13,759 INFO [AUTO-DELETE-IP] service: DEFAULT_GROUP@@ruoyi-system, ip: {"instanceId":"192.168.46.1#9201#DEFAULT#DEFAULT_GROUP@@ruoyi-system","ip":"192.168.46.1","port":9201,"weight":1.0,"healthy":false,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-system","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593875318977,"marked":false,"app":"ruoyi-system","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}
+
+2020-07-04 23:09:13,761 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-system, value: {"instanceList":[]}
+
+2020-07-04 23:09:28,438 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-auth, value: {"instanceList":[{"instanceId":"192.168.46.1#9200#DEFAULT#DEFAULT_GROUP@@ruoyi-auth","ip":"192.168.46.1","port":9200,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-auth","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593875368437,"marked":false,"app":"unknown","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+
+2020-07-04 23:09:29,270 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-system, value: {"instanceList":[{"instanceId":"192.168.46.1#9201#DEFAULT#DEFAULT_GROUP@@ruoyi-system","ip":"192.168.46.1","port":9201,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-system","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593875369270,"marked":false,"app":"ruoyi-system","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+
+2020-07-04 23:10:23,018 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-gateway, value: {"instanceList":[{"instanceId":"192.168.46.1#8080#DEFAULT#DEFAULT_GROUP@@ruoyi-gateway","ip":"192.168.46.1","port":8080,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593875423018,"marked":false,"app":"ruoyi-gateway","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+
+2020-07-04 23:41:47,996 INFO creating empty service public:DEFAULT_GROUP@@ruoyi-gen
+
+2020-07-04 23:41:47,997 INFO [NEW-SERVICE] {"name":"DEFAULT_GROUP@@ruoyi-gen","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1593877307997,"checksum":"19b0200c286e618a3e43d5ec687b5c71","clusterMap":{},"empty":true}
+
+2020-07-04 23:41:47,998 WARN cluster: DEFAULT not found, ip: {"instanceId":"192.168.46.1#9202#DEFAULT#DEFAULT_GROUP@@ruoyi-gen","ip":"192.168.46.1","port":9202,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-gen","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593877307996,"marked":false,"app":"ruoyi-gen","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}, will create new cluster with default configuration.
+
+2020-07-04 23:41:47,998 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-gen, value: {"instanceList":[{"instanceId":"192.168.46.1#9202#DEFAULT#DEFAULT_GROUP@@ruoyi-gen","ip":"192.168.46.1","port":9202,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-gen","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593877307996,"marked":false,"app":"ruoyi-gen","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+
+2020-07-04 23:41:54,929 INFO creating empty service public:DEFAULT_GROUP@@ruoyi-monitor
+
+2020-07-04 23:41:54,929 INFO [NEW-SERVICE] {"name":"DEFAULT_GROUP@@ruoyi-monitor","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1593877314929,"checksum":"e5d059c613387b949b0a656d504f71f6","clusterMap":{},"empty":true}
+
+2020-07-04 23:41:54,929 WARN cluster: DEFAULT not found, ip: {"instanceId":"192.168.46.1#9100#DEFAULT#DEFAULT_GROUP@@ruoyi-monitor","ip":"192.168.46.1","port":9100,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-monitor","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593877314929,"marked":false,"app":"ruoyi-monitor","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}, will create new cluster with default configuration.
+
+2020-07-04 23:41:54,930 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-monitor, value: {"instanceList":[{"instanceId":"192.168.46.1#9100#DEFAULT#DEFAULT_GROUP@@ruoyi-monitor","ip":"192.168.46.1","port":9100,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-monitor","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593877314929,"marked":false,"app":"ruoyi-monitor","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+
+2020-07-04 23:42:00,877 INFO creating empty service public:DEFAULT_GROUP@@ruoyi-job
+
+2020-07-04 23:42:00,877 INFO [NEW-SERVICE] {"name":"DEFAULT_GROUP@@ruoyi-job","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":0,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"public","ipDeleteTimeout":30000,"lastModifiedMillis":1593877320877,"checksum":"94e2f53b0232975b767544b67d1a544c","clusterMap":{},"empty":true}
+
+2020-07-04 23:42:00,877 WARN cluster: DEFAULT not found, ip: {"instanceId":"192.168.46.1#9203#DEFAULT#DEFAULT_GROUP@@ruoyi-job","ip":"192.168.46.1","port":9203,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-job","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593877320877,"marked":false,"app":"ruoyi-job","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}, will create new cluster with default configuration.
+
+2020-07-04 23:42:00,877 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@ruoyi-job, value: {"instanceList":[{"instanceId":"192.168.46.1#9203#DEFAULT#DEFAULT_GROUP@@ruoyi-job","ip":"192.168.46.1","port":9203,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@ruoyi-job","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1593877320877,"marked":false,"app":"ruoyi-job","instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000}]}
+

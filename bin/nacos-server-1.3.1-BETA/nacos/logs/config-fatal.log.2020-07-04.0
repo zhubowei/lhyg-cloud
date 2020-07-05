@@ -1,0 +1,57 @@
+2020-07-04 15:15:52,148 WARN isQuickStart:false
+
+2020-07-04 15:15:52,298 ERROR [db-error] DataAccessException : caused: StatementCallback; bad SQL grammar [select 1 from config_info_beta limit 1]; nested exception is java.sql.SQLSyntaxErrorException: Syntax error: Encountered "1" at line 1, column 38.;caused: Syntax error: Encountered "1" at line 1, column 38.;caused: Syntax error: Encountered "1" at line 1, column 38.;
+
+2020-07-04 15:15:52,299 ERROR [db-error] DataAccessException : caused: StatementCallback; bad SQL grammar [select 1 from config_info_tag limit 1]; nested exception is java.sql.SQLSyntaxErrorException: Syntax error: Encountered "1" at line 1, column 37.;caused: Syntax error: Encountered "1" at line 1, column 37.;caused: Syntax error: Encountered "1" at line 1, column 37.;
+
+2020-07-04 16:49:41,002 ERROR [master-db] master db not found.
+
+2020-07-04 16:49:49,018 ERROR [db-error] master db 106.232.234.21 down.
+
+2020-07-04 16:49:50,810 WARN isQuickStart:false
+
+2020-07-04 16:49:50,820 ERROR Nacos Server did not start because dumpservice bean construction failure :
+java.lang.IllegalStateException: No DataSource set
+
+2020-07-04 16:50:07,040 ERROR [master-db] master db not found.
+
+2020-07-04 16:50:15,028 ERROR [db-error] master db 106.232.234.21 down.
+
+2020-07-04 16:50:48,074 ERROR [master-db] master db not found.
+
+2020-07-04 16:50:56,092 ERROR [db-error] master db 106.232.234.21 down.
+
+2020-07-04 16:50:57,896 WARN isQuickStart:false
+
+2020-07-04 16:50:57,907 ERROR Nacos Server did not start because dumpservice bean construction failure :
+java.lang.IllegalStateException: No DataSource set
+
+2020-07-04 16:51:14,116 ERROR [master-db] master db not found.
+
+2020-07-04 16:51:22,104 ERROR [db-error] master db 106.232.234.21 down.
+
+2020-07-04 16:51:46,153 ERROR [master-db] master db not found.
+
+2020-07-04 16:51:54,171 ERROR [db-error] master db 106.232.234.21 down.
+
+2020-07-04 16:51:55,971 WARN isQuickStart:false
+
+2020-07-04 16:51:55,983 ERROR Nacos Server did not start because dumpservice bean construction failure :
+java.lang.IllegalStateException: No DataSource set
+
+2020-07-04 16:52:12,201 ERROR [master-db] master db not found.
+
+2020-07-04 16:52:20,182 ERROR [db-error] master db 106.232.234.21 down.
+
+2020-07-04 16:52:30,231 ERROR [master-db] master db not found.
+
+2020-07-04 16:52:38,210 ERROR [db-error] master db 106.232.234.21 down.
+
+2020-07-04 16:52:55,479 WARN [master-db] jdbc:mysql://localhost:3306/ry-config?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true
+
+2020-07-04 16:52:56,822 WARN isQuickStart:false
+
+2020-07-04 21:49:09,323 WARN [master-db] jdbc:mysql://localhost:3306/ry-config?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true
+
+2020-07-04 21:49:10,736 WARN isQuickStart:false
+
